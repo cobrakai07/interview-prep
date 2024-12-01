@@ -1,4 +1,3 @@
-
 interface I {
     public void fun();
 }

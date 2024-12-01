@@ -1,0 +1,78 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.idea_modules/
+out/
+workspace.xml
+tasks.xml
+usage.statistics.xml
+dictionaries/
+tmp/
+# IntelliJ IDEA end
+
+# Logs
+logs/
+*.log
+spring.log
+
+# Target folder
+target/
+
+# Compiled class files
+*.class
+
+# Maven
+.mvn/
+!**/mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.settings/
+.classpath
+.project
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.metadata/
+*.tmp
+*.bak
+*.swp
+*.orig
+*.tmp
+*.bak
+*.swp
+*.orig
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other files to ignore
+*.swp
+*.swo
+*.jar
+*.war
+*.ear
+*.env
+*.pyc
+*.pyo
+
+# Application-specific
+*.db
+*.sqlite
+*.pid
+
+# Sensitive files
+.env
+*.key
+*.pem
+*.crt
+*.p12
+*.jks
+*.keystore
+
+# Node modules (if using frontend in same project)
+node_modules/
